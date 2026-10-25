@@ -1,0 +1,6 @@
+{
+  "name": "Gonzalez Image Processing - Intensity & Spatial Filtering",
+  "description": "Interactive workbench and Jupyter Notebook generator for Gonzalez & Woods Digital Image Processing Chapter 3, covering log transformations, power-law (gamma) corrections, and median spatial filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
